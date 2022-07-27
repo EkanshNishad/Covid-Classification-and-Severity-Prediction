@@ -62,7 +62,7 @@ Precision: 0.9924
 | DenseNet 201  | 0.4655, 0.7565, 0.7361, 0.8706, 0.4987, 0.6809  | 0.3351, 0.8612, 0.7463, 0.9684, 0.3874, 0.6442  |
 | VGG16         | 0.9252, 0.9481,  0.9328, 0.9704, 0.8948, 0.8834 | 1.0761, 1.1396, 1.1211, 1.1391, 1.0231, 1.0268  |
 
-### Models
+## Models
 
 Find other models at [link](https://drive.google.com/drive/folders/1iaLxMkzMKdV_FXPhbJW8TN2LVK_GU-oV?usp=sharing)
 
