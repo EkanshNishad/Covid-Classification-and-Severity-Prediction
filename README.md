@@ -22,6 +22,19 @@ In this project, we have created the classification model and the severity model
 
 [Brixia](https://brixia.github.io/)
 
+
+## Architecture
+
+### Classification
+
+<img src="https://github.com/EkanshNishad/Covid-Classification-and-Severity-Prediction/blob/main/images/image8.jpg?raw=true" width="350">
+
+### Severity
+
+<img src="https://github.com/EkanshNishad/Covid-Classification-and-Severity-Prediction/blob/main/images/image9.png?raw=true" width="350">
+
+
+
 ## Results
 
 ### Segmentation Results
